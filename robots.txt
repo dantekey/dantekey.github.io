@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dantekey.github.io/sitemap.xml
